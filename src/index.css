@@ -1,0 +1,12 @@
+.myBorder{
+  border: 2px solid rgb(12, 255, 12);
+}
+a{
+  color: rgb(12, 255, 12) !important;
+}
+ul{
+  list-style: none;
+}
+.logo{
+  color: rgb(12, 255, 12);
+}
